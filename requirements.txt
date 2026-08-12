@@ -1,0 +1,5 @@
+cryptography
+requests
+aioquic
+slack_sdk
+PyYAML

@@ -1,0 +1,12 @@
+slack: 
+  oauth_token: ""
+  send_channel: ""
+  recv_channel: ""
+  bot_name: ""
+  
+dns:
+  domain: ""
+  key: ""
+  
+quic:
+  domain: ""
