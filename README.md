@@ -87,7 +87,7 @@ dns:
 
 #### Server-Side Setup
 
-Firstly, you will need to have a domain and an Internet-facing server that allows traffic on TCP on your chosen port (default 443). You will also need to generate a valid SSL certificate and private key.
+Firstly, you will need to have a domain and an Internet-facing server that allows traffic on UDP on your chosen port (default 443). You will also need to generate a valid SSL certificate and private key.
 
 1. Create an A record that points to your server's IP address. 
 
